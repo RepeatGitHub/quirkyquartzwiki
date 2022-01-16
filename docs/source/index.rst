@@ -1,11 +1,12 @@
-Welcome to Lumache's documentation!
+Repeat's Quirky Quartz
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**idk how to make a readthedocs page** 
+Repeat's Quirky Quartz is a Minecraft mod that adds variants to the normally boring Quartz.
 
+
+
+*don't read this part idk it came with the page*
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
