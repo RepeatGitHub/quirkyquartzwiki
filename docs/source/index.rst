@@ -5,7 +5,7 @@ Repeat's Quirky Quartz
 
 Repeat's Quirky Quartz is a Minecraft mod that adds variants to the normally boring Quartz.
 
-
+ 
 
 *don't read this part idk it came with the page*
 
